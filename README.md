@@ -2,9 +2,17 @@
 
 # Titel
 
+Rapportage webtoegankelijkheid-test voor Beyco Coffee Page
+
 ## Beschrijving
-<!-- Voeg een link toe naar Github Pages 🌐-->
-<!-- Voeg een mooie poster visual toe 📸 -->
+
+Dit document is een template voor een webtoegankelijkheid-test volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportage helpt bij het uitvoeren van een evaluatie en zorgt er voor dat verschillende tests kunnen worden vergeleken.
+
+In deze rapportage wordt het detail pagina getest aan de hand van de checklist van het a11y project.
+
+Datum webtoegankelijkheid-test: 29-10-2021
+
+Webtoegankelijkheid-test uitgevoerd door: Armando Jubitana
 
 ## Inhoudsopgave
 
