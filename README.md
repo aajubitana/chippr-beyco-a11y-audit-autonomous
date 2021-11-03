@@ -17,12 +17,12 @@ Webtoegankelijkheid-test uitgevoerd door: Armando Jubitana
 ## Inhoudsopgave
 
 - [Titel](#titel)
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
+  * [Samenvatting](#Samenvatting)
+  * [](#Achtergrond bij de evaluatie)
+  * [Afbakening](#Afbakening)
+  * [Beoordelaars](#Beoordelaars)
+  * [Beoordelingsproces](#Beoorderlingsproces)
+  * [Testresultaten en aanbevelingen](#licentie)
 
 ## Kenmerken
 
