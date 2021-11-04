@@ -28,7 +28,7 @@ Webtoegankelijkheid-test uitgevoerd door: Armando Jubitana
 
 Dit rapport beschrijft in hoeverre de website beyco.nl overeenstemt met de Web Content Accessibility Guidelines (WCAG) van het W3C.
 
-Conslusie van deze test luidt dat de Beyco website niet voldoet de WCAG 2.1, op niveau AA. Gedetailleerde resultaten en aanbevelingen zijn verderop in dit document beschikbaar en in de referenties vindt u bronnen voor eventuele vervolgstudie. Wij stellen feedback op deze evaluatie zeer op prijs.
+Conslusie van deze test luidt dat de Beyco website voldoet de WCAG 2.1, op niveau AA. Gedetailleerde resultaten en aanbevelingen zijn verderop in dit document beschikbaar en in de referenties vindt u bronnen voor eventuele vervolgstudie. Wij stellen feedback op deze evaluatie zeer op prijs.
 
 ## Achtergrond bij de evaluatie
 
@@ -65,13 +65,12 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
 De detail pagina van Beyco voldoet niet aan niveau AA van de WCAG 2.1.
 
-Er zijn bepaalde verbeterpunten en dat is vooral mobiel gericht, detailpagina wordt op de Iphone 8 t/m 12 niet goed of correct weergeven. 
-Ook is het mogelijk om zowel verticaal als horziontaal te 
+Er zijn bepaalde verbeterpunten en dat is vooral mobiel gericht, de layout oogt wat netter als de kolommen met content in het midden gecentreerd is en wat breder waren zodat de kaart of iframe beter past.
+Ook is het mogelijk om sommige apparaten zowel verticaal als horziontaal te 
 scrollen wat voor veel mensen niet handig is en soms voor irritatie kan zorgen.
 
-Ook in de mobiele versie overlappen sommige items elkaar.
-Dan zie je pijltjes op plekken waar het geen functie heeft.
 Ook contrast van kleine teksten in het grijs is slecht te zien voor mensen die al minder kunnen zien dan is een hoger contrast veel meer leesbaar.
+Ook mensen met kleurenblindheid zien de groene kleuren tekst niet het wordt volgens hen grijs weergeven maar de linkjes en buttons zijn wel goed te zien.
 
 Checklist
 
@@ -138,7 +137,8 @@ Color Contrast
 Mobile and Touch
  
      Check that the site can be rotated to any orientation.
-     - De pagina kan goed geroteerd worden alhoewel het vaak niet correct wordt weergeven en is het niet heel mobiel vriendelijk.
+     - De pagina kan goed geroteerd worden alhoewel het soms op sommige apparaten niet in alle hoeken geroteerd kan worden bijvoorbeeld 
+     de Iphone 12 kan het niet op z'n kop weergeven worden.
      
      Remove horizontal scrolling
      - De pagina kan zowel verticaal als horizal gescrolled worden op sommige apparaten.
