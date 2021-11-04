@@ -146,7 +146,7 @@ Mobile and Touch
      
      Ensure that button and link icons can be activated with ease. 
      - Buttons en link iconen zijn goed klikbaar alhoewel sommige icoontjes overlappen
-
+    
      Ensure sufficient space between interactive items in order to provide a scroll area. 
      Er is voldoende ruimte om te scrollen voor op de mobiel.
     
