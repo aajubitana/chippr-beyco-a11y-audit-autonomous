@@ -4,6 +4,8 @@
 
 Rapportage webtoegankelijkheid-test voor Beyco Coffee Page
 
+![Usabilitytestbeyco](https://github.com/aajubitana/chippr-beyco-a11y-audit-autonomous/blob/main/Schetsen%20Sprint%203/bijlage/usabilitytest.jpg)
+
 ## Beschrijving
 
 Dit document is een template voor een webtoegankelijkheid-test volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportage helpt bij het uitvoeren van een evaluatie en zorgt er voor dat verschillende tests kunnen worden vergeleken.
@@ -121,6 +123,8 @@ Color Contrast
      
      Check the contrast for all large-sized text.
      - Dik gedrukte teksten bevat een contrast ratio van 21:1 en dat voldoet.
+     
+     
      
      Check the contrast for all icons.
      - Icoontjes op de detailpagina bevat een contrast ratio van 4:73:1 en dat voldoet.
