@@ -89,6 +89,8 @@ n.v.t.
 Appearance
 
    Check your content in specialized browsing modes.
+    - Use of colors :![hoogcontrasttestdetailpagina](https://github.com/aajubitana/chippr-beyco-a11y-audit-autonomous/blob/main/Schetsen%20Sprint%203/bijlage/hoogcontrast.png)
+    ![hoogcontrastdetailpaginabeyco](https://github.com/aajubitana/chippr-beyco-a11y-audit-autonomous/blob/main/Schetsen%20Sprint%203/bijlage/hoogcontrast2.png)
     - Alles is goed zichtbaar ook in hoogcontrast modes kun je nog links en blokjes van content zien.
       Increase text size to 200%.
     - Ook bij het zoomen van browser naar 200% is toch alles duidelijk te zien en is content netjes in het midden van de browser.
@@ -123,6 +125,9 @@ Color Contrast
      
      Check the contrast for all large-sized text.
      - Dik gedrukte teksten bevat een contrast ratio van 21:1 en dat voldoet.
+     
+     
+![conrasttestbeyco](https://github.com/aajubitana/chippr-beyco-a11y-audit-autonomous/blob/main/Schetsen%20Sprint%203/bijlage/contrasttesttekst.png)
      
      
      
